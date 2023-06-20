@@ -16,3 +16,7 @@ Link :- https://www.kaggle.com/datasets/shivachandel/kc-house-data
 
 ## Working model 
 The given code for the working model is just an expermintal setup code for finding the associated values for appropriate price prediction.
+i) The Main point is that the feature model is planned for the further steps.
+
+
+
